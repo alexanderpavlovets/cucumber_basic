@@ -1,0 +1,23 @@
+{
+  "name": "cucumber_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderpavlovets/cucumber_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderpavlovets/cucumber_basic/issues"
+  },
+  "homepage": "https://github.com/alexanderpavlovets/cucumber_basic#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
